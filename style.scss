@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+background: linear-gradient(to right,blue, black);
+color: white;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: 1px groove black;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkblue;
+     border: 1px groove white;
+    border-radius: 10px;
+}
